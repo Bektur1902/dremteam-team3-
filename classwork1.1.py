@@ -17,4 +17,4 @@ if r > j:
 elif r < j:
   	print('r < j')
 else:
-  	print('r = j')
+  	print('r равно j')
